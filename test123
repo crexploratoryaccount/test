@@ -1,49 +1,95 @@
+<?xml version="1.0" ?>
 <jobs>
   <job>
-    <title>Generator Service Engineer</title>
-    <company>Compu-Global-Hyper-Mega-Net</company>
-    <company_url>http://www.samplecompany.com</company_url>
-    <location>San Francisco, USA</location>
-    <remote>False</remote>
-    <city>San Francisco</city>
-    <state>CA</state>
-    <zip></zip>
-    <country>USA</country>
-    <description>
-      This highly respected international engineering company has had a long established presence. With over 15 years in the region they have developed an unrivaled reputation for delivery and service to their clients. Regarded by many as leaders in the power generation market they cover the spectrum of heavy industrial to medical to entertainment, as a result they can offer a unique and varied working environment.
-    </description>
-    <url>http://www.samplecompany.com/apply</url>
-    <email>hr@samplecompany.com</email>
-    <category></category>
-    <reference>12345</reference>
-    <logo></logo>
-    <salary></salary>
-    <posting_date></posting_date>
-    <job_type></job_type>
-    <expiration_date></expiration_date>
+    <title>Controls Account Executive</title>
+    <company>Controls Jobs (Recruitment Partner)</company>
+    <company_url/>
+    <location>Indianapolis, Indiana</location>
+    <remote>onsite</remote>
+    <city/>
+    <state/>
+    <zip/>
+    <country/>
+    <description>Job Description:
+•A leading company in the building automation and control systems industry is looking for an experienced Controls Technician to join their team in Anaheim, CA. This role involves contributing to a wide range of projects in commercial, healthcare, pharmaceutical, and educational sectors.
+
+Key Responsibilities:
+•Experience as a Controls Technician, with a focus on troubleshooting and programming BAS systems.
+•Understanding and implementation of testing and commissioning protocols for building automation systems.
+•Effective communication with project stakeholders, including building owners, end users, and contractors.
+•Collaborative and independent work in dynamic team settings.
+•Proficiency with various communication protocols such as BACnet, BACtalk, Profibus, Modbus, etc.
+
+Qualifications:
+•Mid to Senior Technician level experience, preferably with ALC experience.
+•Strong technical skills in building automation and control systems.
+
+Benefits:
+•Competitive compensation package.
+•Comprehensive health benefits (Medical, Dental, Vision).
+•Company vehicle and gas card.
+•Company-provided laptop/tablet and tools.
+•Retirement benefits and generous vacation/holiday package.
+
+
+Work Environment:
+•Variety of projects including retrofit, service, and new construction.
+•Regional travel within specified areas, no overnight travel required.
+•Innovative and ethical work culture focused on learning and efficient operations.</description>
+    <url/>
+    <email>partners@controlfind.com</email>
+    <category/>
+    <reference/>
+    <logo/>
+    <salary>70000.0-75000.0</salary>
+    <posting_date/>
+    <job_type>Full Time</job_type>
+    <expiration_date/>
   </job>
   <job>
-    <title>Customer Service Guru</title>
-    <company>Compu-Global-Hyper-Mega-Net</company>
-    <company_url>http://www.samplecompany.com</company_url>
-    <location>San Francisco, USA</location>
-    <remote>False</remote>
-    <city>San Francisco</city>
-    <state>CA</state>
-    <zip></zip>
-    <country>USA</country>
-    <description>
-      Build a career without boundaries. Do work that matters, with the flexibility to pursue your passion wherever it leads. Bring your ambition to make a difference. We’ll bring a world of opportunities.
-    </description>
-    <url>http://www.samplecompany.com/apply</url>
-    <email>hr@samplecompany.com</email>
-    <category></category>
-    <reference>12345</reference>
-    <logo></logo>
-    <salary></salary>
-    <posting_date></posting_date>
-    <job_type></job_type>
-    <expiration_date></expiration_date>
+    <title>Controls Technician – Building Automation Systems</title>
+    <company>DDC Jobs (Recruitment Partner)</company>
+    <company_url/>
+    <location>Anaheim, California</location>
+    <remote>onsite</remote>
+    <city/>
+    <state/>
+    <zip/>
+    <country/>
+    <description>Job Description:
+•A leading company in the building automation and control systems industry is looking for an experienced Controls Technician to join their team in Anaheim, CA. This role involves contributing to a wide range of projects in commercial, healthcare, pharmaceutical, and educational sectors.
+
+Key Responsibilities:
+•Experience as a Controls Technician, with a focus on troubleshooting and programming BAS systems.
+•Understanding and implementation of testing and commissioning protocols for building automation systems.
+Effective communication with project stakeholders, including building owners, end users, and contractors.
+Collaborative and independent work in dynamic team settings.
+Proficiency with various communication protocols such as BACnet, BACtalk, Profibus, Modbus, etc.
+
+Qualifications:
+Mid to Senior Technician level experience, preferably with ALC experience.
+Strong technical skills in building automation and control systems.
+
+Benefits:
+Competitive compensation package.
+Comprehensive health benefits (Medical, Dental, Vision).
+Company vehicle and gas card.
+Company-provided laptop/tablet and tools.
+Retirement benefits and generous vacation/holiday package.
+
+
+Work Environment:
+Variety of projects including retrofit, service, and new construction.
+Regional travel within specified areas, no overnight travel required.
+Innovative and ethical work culture focused on learning and efficient operations.</description>
+    <url/>
+    <email>partners@controlfind.com</email>
+    <category/>
+    <reference/>
+    <logo/>
+    <salary>33.0-52.0</salary>
+    <posting_date/>
+    <job_type>Full Time</job_type>
+    <expiration_date/>
   </job>
-  <!-- Additional job listings go here -->
 </jobs>
