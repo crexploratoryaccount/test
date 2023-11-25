@@ -31,7 +31,6 @@ Benefits:
 •Company-provided laptop/tablet and tools.
 •Retirement benefits and generous vacation/holiday package.
 
-
 Work Environment:
 •Variety of projects including retrofit, service, and new construction.
 •Regional travel within specified areas, no overnight travel required.
@@ -41,7 +40,8 @@ Work Environment:
     <category/>
     <reference/>
     <logo/>
-    <salary>70000.0-75000.0</salary>
+    <salary_min>70000.0</salary_min>
+    <salary_max>75000.0</salary_max>
     <posting_date/>
     <job_type>Full Time</job_type>
     <expiration_date/>
@@ -77,7 +77,6 @@ Company vehicle and gas card.
 Company-provided laptop/tablet and tools.
 Retirement benefits and generous vacation/holiday package.
 
-
 Work Environment:
 Variety of projects including retrofit, service, and new construction.
 Regional travel within specified areas, no overnight travel required.
@@ -87,7 +86,8 @@ Innovative and ethical work culture focused on learning and efficient operations
     <category/>
     <reference/>
     <logo/>
-    <salary>33.0-52.0</salary>
+    <salary_min>33.0</salary_min>
+    <salary_max>52.0</salary_max>
     <posting_date/>
     <job_type>Full Time</job_type>
     <expiration_date/>
